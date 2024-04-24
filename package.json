@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "crypto": "^1.0.1",
     "dynamic-jspdf-receipt": "^1.0.7",
     "express": "^4.19.2"
   }
